@@ -9,7 +9,7 @@ function SingleProduct() {
                         <div class="col-lg-12">
                             <div class="inner-content">
                                 <h2>Single Product Page</h2>
-                                <span>Awesome &amp; Creative HTML CSS layout by Jared</span>
+                                <span>Awesome &amp; layout by JaDed</span>
                             </div>
                         </div>
                     </div>

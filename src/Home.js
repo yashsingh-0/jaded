@@ -9,7 +9,7 @@ function Home() {
                             <div class="left-content">
                                 <div class="thumb">
                                     <div class="inner-content">
-                                        <h4>We Are Jared</h4>
+                                        <h4>We Are JADED</h4>
                                         <span>Awesome, clean &amp; creative HTML5 Template</span>
                                         <div class="main-border-button">
                                             <a href="#">Purchase Now!</a>
@@ -115,7 +115,7 @@ function Home() {
                         <div class="col-lg-6">
                             <div class="section-heading">
                                 <h2>Men's Latest</h2>
-                                <span>Details to details is what makes Jared different from the other themes.</span>
+                                <span>Details to details is what makes JADED different from the other themes.</span>
                             </div>
                         </div>
                     </div>
@@ -230,7 +230,7 @@ function Home() {
                         <div class="col-lg-6">
                             <div class="section-heading">
                                 <h2>Women's Latest</h2>
-                                <span>Details to details is what makes Jared different from the other themes.</span>
+                                <span>Details to details is what makes JADED different from the other themes.</span>
                             </div>
                         </div>
                     </div>
@@ -345,7 +345,7 @@ function Home() {
                         <div class="col-lg-6">
                             <div class="section-heading">
                                 <h2>Kid's Latest</h2>
-                                <span>Details to details is what makes Jared different from the other themes.</span>
+                                <span>Details to details is what makes JADED different from the other themes.</span>
                             </div>
                         </div>
                     </div>
@@ -509,7 +509,7 @@ function Home() {
                         <div class="col-lg-12">
                             <div class="section-heading">
                                 <h2>Social Media</h2>
-                                <span>Details to details is what makes Jared different from the other themes.</span>
+                                <span>Details to details is what makes JADED different from the other themes.</span>
                             </div>
                         </div>
                     </div>
@@ -592,7 +592,7 @@ function Home() {
                         <div class="col-lg-8">
                             <div class="section-heading">
                                 <h2>By Subscribing To Our Newsletter You Can Get 30% Off</h2>
-                                <span>Details to details is what makes Jared different from the other themes.</span>
+                                <span>Details to details is what makes JADED different from the other themes.</span>
                             </div>
                             <form id="subscribe" action="" method="get">
                                 <div class="row">

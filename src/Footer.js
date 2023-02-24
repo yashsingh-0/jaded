@@ -7,11 +7,11 @@ function Footer() {
                     <div class="col-lg-3">
                         <div class="first-item">
                             <div class="logo">
-                                JARED
+                                JADED
                             </div>
                             <ul>
                                 <li><a href="#">Ludhiana Punjab India</a></li>
-                                <li><a href="#">Jared@company.com</a></li>
+                                <li><a href="#">JADED@company.com</a></li>
                                 <li><a href="#">12345678910</a></li>
                             </ul>
                         </div>
@@ -44,9 +44,9 @@ function Footer() {
                     </div>
                     <div class="col-lg-12">
                         <div class="under-footer">
-                            <p>Copyright © 2022 Jared Co., Ltd. All Rights Reserved. 
+                            <p>Copyright © 2022 JADED Co., Ltd. All Rights Reserved. 
                             
-                            <br/>Design: <a href="#" target="_parent" title="JARED">Jared</a></p>
+                            <br/>Design: <a href="#" target="_parent" title="JADED">JADED</a></p>
                             <ul>
                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>

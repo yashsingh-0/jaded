@@ -8,7 +8,7 @@ function Header() {
                <div class="row">
                    <div class="col-12">
                        <nav class="main-nav">
-                        <Link class="logo" to={{ pathname: "/"}}>JARED</Link>
+                        <Link class="logo" to={{ pathname: "/"}}>JADED</Link>
                            
                            <ul class="nav">
                                <li class="scroll-to-section"><a href="#top" class="active">Home</a></li>

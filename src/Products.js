@@ -10,7 +10,7 @@ function Products() {
                         <div class="col-lg-12">
                             <div class="inner-content">
                                 <h2>Check Our Products</h2>
-                                <span>Awesome &amp; Creative HTML CSS layout by Jared</span>
+                                <span>Awesome &amp; layout by JADED</span>
                             </div>
                         </div>
                     </div>

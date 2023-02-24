@@ -49,7 +49,7 @@ function About() {
                         <div class="col-lg-12">
                             <div class="section-heading">
                                 <h2>Our Amazing Team</h2>
-                                <span>Details to details is what makes Jared different from the other themes.</span>
+                                <span>Details to details is what makes JADED different from the other themes.</span>
                             </div>
                         </div>
                         <div class="col-lg-4">
@@ -125,7 +125,7 @@ function About() {
                         <div class="col-lg-12">
                             <div class="section-heading">
                                 <h2>Our Services</h2>
-                                <span>Details to details is what makes Jared different from the other themes.</span>
+                                <span>Details to details is what makes JADED different from the other themes.</span>
                             </div>
                         </div>
                         <div class="col-lg-4">
@@ -159,7 +159,7 @@ function About() {
                         <div class="col-lg-8">
                             <div class="section-heading">
                                 <h2>By Subscribing To Our Newsletter You Can Get 30% Off</h2>
-                                <span>Details to details is what makes Jared different from the other themes.</span>
+                                <span>Details to details is what makes JADED different from the other themes.</span>
                             </div>
                             <form id="subscribe" action="" method="get">
                                 <div class="row">

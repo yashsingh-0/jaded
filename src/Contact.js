@@ -30,7 +30,7 @@ function Contact() {
                             <div class="col-lg-6">
                                 <div class="section-heading">
                                     <h2>Say Hello. Don't Be Shy!</h2>
-                                    <span>Details to details is what makes Jared different from the other themes.</span>
+                                    <span>Details to details is what makes JADED different from the other themes.</span>
                                 </div>
                                 <form id="contact" action="" method="post">
                                     <div class="row">
@@ -67,7 +67,7 @@ function Contact() {
                             <div class="col-lg-8">
                                 <div class="section-heading">
                                     <h2>By Subscribing To Our Newsletter You Can Get 30% Off</h2>
-                                    <span>Details to details is what makes Jared different from the other themes.</span>
+                                    <span>Details to details is what makes JADED different from the other themes.</span>
                                 </div>
                                 <form id="subscribe" action="" method="get">
                                     <div class="row">
