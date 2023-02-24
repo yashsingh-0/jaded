@@ -138,7 +138,7 @@ function Home() {
                                         </div>
                                         <div class="down-content">
                                             <h4>Classic Spring</h4>
-                                            <span>$120.00</span>
+                                            <span>Rs 1200.00</span>
                                             <ul class="stars">
                                                 <li><i class="fa fa-star"></i></li>
                                                 <li><i class="fa fa-star"></i></li>
@@ -161,7 +161,7 @@ function Home() {
                                         </div>
                                         <div class="down-content">
                                             <h4>Air Force 1 X</h4>
-                                            <span>$90.00</span>
+                                            <span>Rs 900.00</span>
                                             <ul class="stars">
                                                 <li><i class="fa fa-star"></i></li>
                                                 <li><i class="fa fa-star"></i></li>
@@ -184,7 +184,7 @@ function Home() {
                                         </div>
                                         <div class="down-content">
                                             <h4>Love Nana ‘20</h4>
-                                            <span>$150.00</span>
+                                            <span>Rs 1500.00</span>
                                             <ul class="stars">
                                                 <li><i class="fa fa-star"></i></li>
                                                 <li><i class="fa fa-star"></i></li>
@@ -207,7 +207,7 @@ function Home() {
                                         </div>
                                         <div class="down-content">
                                             <h4>Classic Spring</h4>
-                                            <span>$120.00</span>
+                                            <span>Rs 1200.00</span>
                                             <ul class="stars">
                                                 <li><i class="fa fa-star"></i></li>
                                                 <li><i class="fa fa-star"></i></li>
@@ -253,7 +253,7 @@ function Home() {
                                         </div>
                                         <div class="down-content">
                                             <h4>New Green Jacket</h4>
-                                            <span>$75.00</span>
+                                            <span>Rs 750.00</span>
                                             <ul class="stars">
                                                 <li><i class="fa fa-star"></i></li>
                                                 <li><i class="fa fa-star"></i></li>
@@ -276,7 +276,7 @@ function Home() {
                                         </div>
                                         <div class="down-content">
                                             <h4>Classic Dress</h4>
-                                            <span>$45.00</span>
+                                            <span>Rs 450.00</span>
                                             <ul class="stars">
                                                 <li><i class="fa fa-star"></i></li>
                                                 <li><i class="fa fa-star"></i></li>
@@ -299,7 +299,7 @@ function Home() {
                                         </div>
                                         <div class="down-content">
                                             <h4>Spring Collection</h4>
-                                            <span>$130.00</span>
+                                            <span>Rs 1300.00</span>
                                             <ul class="stars">
                                                 <li><i class="fa fa-star"></i></li>
                                                 <li><i class="fa fa-star"></i></li>
@@ -322,7 +322,7 @@ function Home() {
                                         </div>
                                         <div class="down-content">
                                             <h4>Classic Spring</h4>
-                                            <span>$120.00</span>
+                                            <span>Rs 1200.00</span>
                                             <ul class="stars">
                                                 <li><i class="fa fa-star"></i></li>
                                                 <li><i class="fa fa-star"></i></li>
@@ -368,7 +368,7 @@ function Home() {
                                         </div>
                                         <div class="down-content">
                                             <h4>School Collection</h4>
-                                            <span>$80.00</span>
+                                            <span>Rs 800.00</span>
                                             <ul class="stars">
                                                 <li><i class="fa fa-star"></i></li>
                                                 <li><i class="fa fa-star"></i></li>
@@ -391,7 +391,7 @@ function Home() {
                                         </div>
                                         <div class="down-content">
                                             <h4>Summer Cap</h4>
-                                            <span>$12.00</span>
+                                            <span>Rs 120.00</span>
                                             <ul class="stars">
                                                 <li><i class="fa fa-star"></i></li>
                                                 <li><i class="fa fa-star"></i></li>
@@ -414,7 +414,7 @@ function Home() {
                                         </div>
                                         <div class="down-content">
                                             <h4>Classic Kid</h4>
-                                            <span>$30.00</span>
+                                            <span>Rs 300.00</span>
                                             <ul class="stars">
                                                 <li><i class="fa fa-star"></i></li>
                                                 <li><i class="fa fa-star"></i></li>
@@ -437,7 +437,7 @@ function Home() {
                                         </div>
                                         <div class="down-content">
                                             <h4>Classic Spring</h4>
-                                            <span>$120.00</span>
+                                            <span>Rs 1200.00</span>
                                             <ul class="stars">
                                                 <li><i class="fa fa-star"></i></li>
                                                 <li><i class="fa fa-star"></i></li>
@@ -594,7 +594,7 @@ function Home() {
                                 <h2>By Subscribing To Our Newsletter You Can Get 30% Off</h2>
                                 <span>Details to details is what makes JADED different from the other themes.</span>
                             </div>
-                            <form id="subscribe" action="" method="get">
+                            <form id="subscribe" action="#" method="get">
                                 <div class="row">
                                 <div class="col-lg-5">
                                     <fieldset>

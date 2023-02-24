@@ -32,7 +32,7 @@ function Contact() {
                                     <h2>Say Hello. Don't Be Shy!</h2>
                                     <span>Details to details is what makes JADED different from the other themes.</span>
                                 </div>
-                                <form id="contact" action="" method="post">
+                                <form id="contact" action="#" method="post">
                                     <div class="row">
                                     <div class="col-lg-6">
                                         <fieldset>
