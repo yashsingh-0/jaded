@@ -28,7 +28,7 @@ function SingleProduct() {
                     <div class="col-lg-4">
                         <div class="right-content">
                             <h4>New Green Jacket</h4>
-                            <span class="price">$75.00</span>
+                            <span class="price">Rs 705.00</span>
                             <ul class="stars">
                                 <li><i class="fa fa-star"></i></li>
                                 <li><i class="fa fa-star"></i></li>
@@ -51,7 +51,7 @@ function SingleProduct() {
                                 </div>
                             </div>
                             <div class="total">
-                                <h4>Total: $210.00</h4>
+                                <h4>Total: Rs 2010.00</h4>
                                 <div class="main-border-button"><a href="#">Add To Cart</a></div>
                             </div>
                         </div>
