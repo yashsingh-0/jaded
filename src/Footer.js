@@ -46,7 +46,7 @@ function Footer() {
                         <div class="under-footer">
                             <p>Copyright © 2022 JADED Co., Ltd. All Rights Reserved. 
                             
-                            <br/>Design: <a href="#" target="_parent" title="JADED">JADED</a></p>
+                            <br/>Designed By: <a href="www.linkedin.com/in/yashsingh0/" target="_parent" title="Yash Singh">Yash Singh</a></p>
                             <ul>
                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
