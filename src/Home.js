@@ -12,7 +12,7 @@ function Home() {
                                         <h4>We Are JADED</h4>
                                         <span>Awesome, clean &amp; creative HTML5 Template</span>
                                         <div class="main-border-button">
-                                            <a href="#">Purchase Now!</a>
+                                        <Link to={{ pathname: "/Products"}}>Purchase Now!</Link>
                                         </div>
                                     </div>
                                     <img src="assets/images/left-banner-image.jpg" alt="" />
@@ -34,7 +34,7 @@ function Home() {
                                                         <h4>Women</h4>
                                                         <p>Lorem ipsum dolor sit amet, conservisii ctetur adipiscing elit incid.</p>
                                                         <div class="main-border-button">
-                                                        <a href="javascript:window.open('/Products')">Discover More</a>
+                                                        <Link to={{ pathname: "/Products"}}>Discover More</Link>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -54,7 +54,7 @@ function Home() {
                                                         <h4>Men</h4>
                                                         <p>Lorem ipsum dolor sit amet, conservisii ctetur adipiscing elit incid.</p>
                                                         <div class="main-border-button">
-                                                        <a href="javascript:window.open('/Products')">Discover More</a>
+                                                        <Link to={{ pathname: "/Products"}}>Discover More</Link>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -74,7 +74,7 @@ function Home() {
                                                         <h4>Kids</h4>
                                                         <p>Lorem ipsum dolor sit amet, conservisii ctetur adipiscing elit incid.</p>
                                                         <div class="main-border-button">
-                                                        <a href="javascript:window.open('/Products')">Discover More</a>
+                                                        <Link to={{ pathname: "/Products"}}>Discover More</Link>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -94,7 +94,7 @@ function Home() {
                                                         <h4>Accessories</h4>
                                                         <p>Lorem ipsum dolor sit amet, conservisii ctetur adipiscing elit incid.</p>
                                                         <div class="main-border-button">
-                                                        <a href="javascript:window.open('/Products')">Discover More</a>
+                                                        <Link to={{ pathname: "/Products"}}>Discover More</Link>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -467,7 +467,7 @@ function Home() {
                                 <p>HELLO Leather</p>
                                 <p>dbhasdbasjkdbaskjdasjkdajk asdjk asjkdh asjkdh asjkdh asjkhasdjkh kjashd kjashd </p>
                                 <div class="main-border-button">
-                                    <a href="javascript:window.open('/Products')">Discover More</a>
+                                <Link to={{ pathname: "/Products"}}>Discover More</Link>
                                 </div>
                             </div>
                         </div>
