@@ -34,7 +34,7 @@ function Home() {
                                                         <h4>Women</h4>
                                                         <p>Lorem ipsum dolor sit amet, conservisii ctetur adipiscing elit incid.</p>
                                                         <div class="main-border-button">
-                                                            <a href="#">Discover More</a>
+                                                        <a href="javascript:window.open('/Products')">Discover More</a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -54,7 +54,7 @@ function Home() {
                                                         <h4>Men</h4>
                                                         <p>Lorem ipsum dolor sit amet, conservisii ctetur adipiscing elit incid.</p>
                                                         <div class="main-border-button">
-                                                            <a href="#">Discover More</a>
+                                                        <a href="javascript:window.open('/Products')">Discover More</a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -74,7 +74,7 @@ function Home() {
                                                         <h4>Kids</h4>
                                                         <p>Lorem ipsum dolor sit amet, conservisii ctetur adipiscing elit incid.</p>
                                                         <div class="main-border-button">
-                                                            <a href="#">Discover More</a>
+                                                        <a href="javascript:window.open('/Products')">Discover More</a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -94,7 +94,7 @@ function Home() {
                                                         <h4>Accessories</h4>
                                                         <p>Lorem ipsum dolor sit amet, conservisii ctetur adipiscing elit incid.</p>
                                                         <div class="main-border-button">
-                                                            <a href="#">Discover More</a>
+                                                        <a href="javascript:window.open('/Products')">Discover More</a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -382,7 +382,7 @@ function Home() {
                                         <div class="thumb">
                                             <div class="hover-content">
                                                 <ul>
-                                                    <li><Link to={{ pathname: "/single-product"}}>><i class="fa fa-eye"></i></Link></li>
+                                                    <li><Link to={{ pathname: "/single-product"}}><i class="fa fa-eye"></i></Link></li>
                                                     <li><Link to={{ pathname: "/single-product"}}><i class="fa fa-star"></i></Link></li>
                                                     <li><Link to={{ pathname: "/single-product"}}><i class="fa fa-shopping-cart"></i></Link></li>
                                                 </ul>
@@ -467,7 +467,7 @@ function Home() {
                                 <p>HELLO Leather</p>
                                 <p>dbhasdbasjkdbaskjdasjkdajk asdjk asjkdh asjkdh asjkdh asjkhasdjkh kjashd kjashd </p>
                                 <div class="main-border-button">
-                                    <a href="products.html">Discover More</a>
+                                    <a href="javascript:window.open('/Products')">Discover More</a>
                                 </div>
                             </div>
                         </div>
